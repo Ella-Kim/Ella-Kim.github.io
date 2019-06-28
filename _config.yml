@@ -106,13 +106,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kyeongseon Ella Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Philosophic researcher who loved design"
+  location         : "Seoul, Republic of Korea"
   email            :
   links:
-    - label: "Email"
+    - label: "kskim.caucse@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/llable"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
