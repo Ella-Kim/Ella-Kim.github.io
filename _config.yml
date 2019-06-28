@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "철학적 디발자"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Kyeongseon Ella Kim"
+description              : "philosophic researcher who loved design."
 url                      : "https://llable.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
