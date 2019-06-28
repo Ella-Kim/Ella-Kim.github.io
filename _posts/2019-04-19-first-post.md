@@ -1,8 +1,9 @@
 ---
-title: "Test"
+title: "Test_Lorem"
 date: 2019-04-19 08:26:28 -0400
-categories: New update
+categories: Test
 ---
+# New 나 Update도 가능 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id sollicitudin turpis, sit amet condimentum dolor. In sit amet convallis ex. Curabitur ullamcorper nec libero faucibus lobortis. Cras suscipit vitae erat ut bibendum. Ut commodo maximus tempor. In gravida finibus egestas. Proin vel mollis odio, non sagittis diam. Phasellus lacinia pharetra eleifend. Quisque risus tellus, gravida eu gravida in, sodales scelerisque nulla. In hac habitasse platea dictumst. Proin malesuada ultrices pharetra. Nunc diam enim, luctus a dui non, suscipit dapibus sem. Fusce consequat semper est, vel hendrerit lorem scelerisque in.
 
